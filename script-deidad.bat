@@ -18,7 +18,7 @@ cd /d C:\
 cd Users
 cd Invitado
 cd Desktop
-echo Fuiste jakeadoooooo por los jesusitos > Jesupillos.txt
+echo Fuiste jakeadoooooo por los jesusitos, Felipe y Lucas > Jesupillos.txt
 net user Invitado Chao!3010
 
 cd /d C:\
